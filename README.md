@@ -1,5 +1,4 @@
 # Hello---World
-Jut another repository
 
 Hi Non!
 This is Uyen, a nearly old girl. 
