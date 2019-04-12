@@ -13,5 +13,6 @@ GitHub
 ---------------
 
 This is the first time I used GitHub, which gives me some "wow" moments when first using it.
-To access the GitHub, I need to create an account with user names and password. I find it not to complicated to have an accoung on Github because I did read the tutorial before doing this s
+To access the GitHub, I need to create an account with user names and password. After reading the "Hello World" tutorial, I find it not to difficult to have an account on Github. Then, I had to follow the intruction to create my first repository with multiple complicated steps. 
+I noticed that "Hello - World" tutorial is very informative, which not only shows the steps by words, but also includes images and motion pictures. I think images and pictures gave me a big hand in finishing my repository. Because I am not native American, sometimes I find hard to undersand the language and picture can help me imagine how things work. Therefore, I think to have a good tutorial, I should have clear steps with probably words and illustration pictures, so audience can read and easily follow my steps.
 
