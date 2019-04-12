@@ -23,7 +23,9 @@ After accessing both links, I realized that each website has a certain purpose a
   * For Programming Historian, I think the purpose of this website is giving the tools to audience to research and teach lessons. Therefore, the audience of this website maybe teachers, professors,tutors and students who have are looking for the materials to study and research.
   * For Pierce Hacker, in my opinion, its purpose is to give the information to the audience. Then, audience can easily find what they need. Therefore, the audience may be students, parents, amd professors who is looking for the courses, or class and information about school.
   
+The first things come up to my mind when thinking about the reasons why the writers decide to deliver their work via the public websites is that they want to spread out the information to people. I think this information is useful and believable. 
+
 Conclusion
 ------------
 
-All in all, I did learned a lot from this week. I learn how to set up an account on Github, how to create a new repository and how to play around with it. Especially, the big thing I got is the definition of technical writing, which is the meaning of this class. Then, it can help me go further in this class. Moreover, everytime I write an guidline, now I know the basic ideas how to write a good and clear tutorial, and what the purpose and audienence I would like to reach are.
+All in all, I did learned a lot from this week. I learn how to set up an account on Github, how to create a new repository and how to play around with it. Especially, the big thing I got is the definition of technical writing, which is the meaning of this class. Then, it can help me go further for this class as well as for my future. Moreover, everytime I write an guideline, now I know the basic ideas how to write a good and clear tutorial, and what the purpose and potential audienence I would like to reach are.
