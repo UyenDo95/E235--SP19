@@ -20,7 +20,7 @@ Programming Historian and Pierce Hacker
 -----------------
 
 After accessing both links, I realized that each website has a certain purpose and audience. 
-  * For Programming Historian, I think the purpose of this website is giving the tools to audience to research and teach lessons. Therefore, the audience of this website maybe teachers, professors, and students who have the eager to study and reseach.
+  * For Programming Historian, I think the purpose of this website is giving the tools to audience to research and teach lessons. Therefore, the audience of this website maybe teachers, professors,tutors and students who have are looking for the materials to study and research.
   * For Pierce Hacker, in my opinion, its purpose is to give the information to the audience. Then, audience can easily find what they need. Therefore, the audience may be students, parents, amd professors who is looking for the courses, or class and information about school.
   
 Conclusion
