@@ -16,3 +16,14 @@ This is the first time I used GitHub, which gives me some "wow" moments when fir
 To access the GitHub, I need to create an account with user names and password. After reading the "Hello World" tutorial, I find it not to difficult to have an account on Github. Then, I had to follow the intruction to create my first repository with multiple complicated steps. 
 I noticed that "Hello - World" tutorial is very informative, which not only shows the steps by words, but also includes images and motion pictures. I think images and pictures gave me a big hand in finishing my repository. Because I am not native American, sometimes I find hard to undersand the language and picture can help me imagine how things work. Therefore, I think to have a good tutorial, I should have clear steps with probably words and illustration pictures, so audience can read and easily follow my steps.
 
+Programming Historian and Pierce Hacker
+-----------------
+
+After accessing both links, I realized that each website has a certain purpose and audience. 
+  * For Programming Historian, I think the purpose of this website is giving the tools to audience to research and teach lessons. Therefore, the audience of this website maybe teachers, professors, and students who have the eager to study and reseach.
+  * For Pierce Hacker, in my opinion, its purpose is to give the information to the audience. Then, audience can easily find what they need. Therefore, the audience may be students, parents, amd professors who is looking for the courses, or class and information about school.
+  
+Conclusion
+------------
+
+All in all, I did learned a lot from this week. I learn how to set up an account on Github, how to create a new repository and how to play around with it. Especially, the big thing I got is the definition of technical writing, which is the meaning of this class. Then, it can help me go further in this class. Moreover, everytime I write an guidline, now I know the basic ideas how to write a good and clear tutorial, and what the purpose and audienence I would like to reach are.
