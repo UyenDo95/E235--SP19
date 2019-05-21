@@ -20,7 +20,5 @@ Cluster column and Stack Column in Excel
 **Square root
 ***binomial Distribution
 ***Ranges
-***Cluster column and stack column
 
-***Pi chart
 
