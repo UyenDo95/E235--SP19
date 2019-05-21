@@ -1,15 +1,18 @@
 Excel Tutorial
 
 
-***How to make SUM in Excel
- 
+SUM in Excel
+------------- 
 How to Make a Totaling Column Formula in Excel (https://www.youtube.com/watch?v=UgeEeEESJxE)
 
-***Square root
+Histogram
+------------
+Creating a Histogram in Microsoft Excel (https://www.youtube.com/watch?v=53DOu_vstvI)
+
+**Square root
 ***binomial Distribution
 ***Ranges
-***sum
 ***Cluster column and stack column
-***Histogram
+
 ***Pi chart
 
