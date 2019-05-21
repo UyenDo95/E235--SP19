@@ -3,7 +3,7 @@ Excel Tutorial
 
 SUM in Excel
 ------------- 
-[How to Make a Totaling Column Formula in Excel] (https://www.youtube.com/watch?v=UgeEeEESJxE)
+[How to Make a Totaling Column Formula in Excel (https://www.youtube.com/watch?v=UgeEeEESJxE)
 
 Histogram
 ------------
