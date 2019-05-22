@@ -1,15 +1,10 @@
 
 
 ---
-title: My Killer Lesson
-authors:
-- Jane Doe
-date: 2016-01-15
-reviewers:
-- John Doe
-- Jason Loan
-layout: lesson
-difficulty level: low [or, high, intermediate]
+title|authors|date|reviewers|layout|difficulty level|
+---|---|---|---|---|---|
+Excel Tutorial for Stat Students|Uyen Do -Luke - Ivan| 05/22/2019|Jason Loan| Lesson|Intermidiate|
+
 ---
 
 ## Lesson Abstact
