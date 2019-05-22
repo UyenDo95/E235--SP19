@@ -11,21 +11,19 @@ Excel Tutorial for Stat Students|Uyen Do -Luke - Ivan| 05-22-2019|Jason Loan| Le
 >Excel has the ability to formulate equations and create graphs to help users evaluate the data they want to use. The lesson will be about how to apply those functions to analyze the input value. Using these data to have many different graphs. Those lesson will be more specific for Stat students, who are looking for how to deal with Excel functions.
 
 ## Lesson Objectives/Outcomes
+>Evaluate data using formulas for a desired output
+Create graphs using given data to have a visual representation
 
 ## Materials
 
-What materials (software, etc.) do people need in order to complete the lesson?
+>Excel will be required for this lesson
 
 ## Overview
 
-This section may include an introduction to key ideas, concepts, or rationale for the lesson. For example, if you were doing a lesson on Zotero, piece of free bibliographic software, you would explain what what Zotero is, why it might be useful for learning to use, etc.
+Using and understanding Microsoft Excel for Statistics students
 
 ## Lesson Steps/Components [as many as needed]
 
-## Credits, Further Reading, etc.
-
-* You may find it necessary to reference and cite information from another source.
-* Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 
 
 SUM in Excel
@@ -45,5 +43,8 @@ Cluster column and Stack Column in Excel
 [Clustered Stacked Bar Chart In Excel](https://www.youtube.com/watch?v=bQs0p3VxmZQ)
 
 
+## Credits, Further Reading, etc.
 
+* You may find it necessary to reference and cite information from another source.
+* Your lesson my be a supplement to an existing resource. Link to other helpful/recommended resources here.
 
