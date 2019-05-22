@@ -8,6 +8,7 @@ Excel Tutorial for Stat Students|Uyen Do -Luke - Ivan| 05-22-2019|Jason Loan| Le
 ---
 
 ## Lesson Abstact
+>Excel has the ability to formulate equations and create graphs to help users evaluate the data they want to use. The lesson will be about how to apply those functions to analyze the input value. Using these data to have many different graphs. Those lesson will be more specific for Stat students, who are looking for how to deal with Excel functions.
 
 ## Lesson Objectives/Outcomes
 
