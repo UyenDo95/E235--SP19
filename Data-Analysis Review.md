@@ -1,10 +1,9 @@
 
+
 ---
-name: initial review
-about: Use this template for offering an initial review.
-title: Initial Review for [insert lesson title]
-labels: ''
-assignees: ''
+Name|About|Titles|Lables|Assignees|
+---|---|---|---|---|
+Uyen Do|Review a lesson|Data Analysis| ||
 
 ---
 
