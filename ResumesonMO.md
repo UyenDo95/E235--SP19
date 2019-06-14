@@ -22,4 +22,5 @@ Resumes Templates For Tranferring Students |Uyen Do | 06-14-2019|Jason Loan| Les
 
 ## Lesson Steps/Components [as many as needed]
 > First Step: Open Word. Click the “Resumes and Cover Letters” link under the search box to see only those types of templates.
-![alt text](https://drive.google.com/drive/folders/1AjRRF7NSXf-aClhVFDlVHMiIw3nsQddx.png "Logo title text 1)
+![alt text][open]
+[open]: https://drive.google.com/drive/folders/1AjRRF7NSXf-aClhVFDlVHMiIw3nsQddx.png
