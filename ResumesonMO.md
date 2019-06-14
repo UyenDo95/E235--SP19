@@ -34,24 +34,24 @@ Resumes Templates For Tranferring Students |Uyen Do | 06-14-2019|Jason Loan| Les
 Tip in Building Resume
 ----------------------
 1. Resume Layout:
-> The layout is the first thing to affect the reader because it’s the first thing the brain processes—before even the text or texture is noticed. So, the resume’s layout is vital.
+ The layout is the first thing to affect the reader because it’s the first thing the brain processes—before even the text or texture is noticed. So, the resume’s layout is vital.
 a. Alignment:
->Resume alignment is straightforward: that’s because resumes are almost always left alighted since most people in the Western world read text from left to right.
->Headings, experience bullet points, educational information, and additional skills should all be left aligned.
->The exceptions are name and contact details: these can be center aligned.
+- Resume alignment is straightforward: that’s because resumes are almost always left alighted since most people in the Western world read text from left to right.
+- Headings, experience bullet points, educational information, and additional skills should all be left aligned.
+- The exceptions are name and contact details: these can be center aligned.
 b. Length:
->Resume should be one-page long. One-page resumes are focused, concise, and uncomplicated.
+- Resume should be one-page long. One-page resumes are focused, concise, and uncomplicated.
 c. Margin:
->One-inch margins are frequently used, so they’re unlikely to offend. Vary margins within a range of ½–1 inch. Do not put margins are too wide, the resume might have too much white space and look “empty.”
+- One-inch margins are frequently used, so they’re unlikely to offend. Vary margins within a range of ½–1 inch. Do not put margins are too wide, the resume might have too much white space and look “empty.”
 2. Fonts: Style, Size and Color
 a. Font Styles: 
->Before choosing a particular font style, students need to choose between serif and sans-serif fonts.
->Serifs are the small lines attached to the ends of the letters.
->Serif fonts are most commonly used in word processing or other nontraditional forms of typesetting.
->Note: Choosing between using sans or sans serif is a matter of personal preference—no font can be definitively said to be better than another
+- Before choosing a particular font style, students need to choose between serif and sans-serif fonts.
+- Serifs are the small lines attached to the ends of the letters.
+- Serif fonts are most commonly used in word processing or other nontraditional forms of typesetting.
+- Note: Choosing between using sans or sans serif is a matter of personal preference—no font can be definitively said to be better than another
 b. Font Size:
->Resume font size should be linked directly to font style. From 11 - 12 points is better.
+- Resume font size should be linked directly to font style. From 11 - 12 points is better.
 c. Font Color:
-> If students choose to use color, it should be a primary color and it should be muted—no bright neon! Simple and subtle reigns supreme in the resume world.
->The key with color in resumes is retaining the focus on the words rather than moving the reader’s focus to colors. Colors on resumes are meant to help convey information, not hinder it.
+- If students choose to use color, it should be a primary color and it should be muted—no bright neon! Simple and subtle reigns supreme in the resume world.
+- The key with color in resumes is retaining the focus on the words rather than moving the reader’s focus to colors. Colors on resumes are meant to help convey information, not hinder it.
 
