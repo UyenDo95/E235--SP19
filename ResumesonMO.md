@@ -35,13 +35,13 @@ Tip in Building Resume
 ----------------------
 1. Resume Layout:
  The layout is the first thing to affect the reader because it’s the first thing the brain processes—before even the text or texture is noticed. So, the resume’s layout is vital.
-a. Alignment:
+>a. Alignment:
 - Resume alignment is straightforward: that’s because resumes are almost always left alighted since most people in the Western world read text from left to right.
 - Headings, experience bullet points, educational information, and additional skills should all be left aligned.
 - The exceptions are name and contact details: these can be center aligned.
-b. Length:
+>b. Length:
 - Resume should be one-page long. One-page resumes are focused, concise, and uncomplicated.
-c. Margin:
+>c. Margin:
 - One-inch margins are frequently used, so they’re unlikely to offend. Vary margins within a range of ½–1 inch. Do not put margins are too wide, the resume might have too much white space and look “empty.”
 2. Fonts: Style, Size and Color
 >a. Font Styles: 
