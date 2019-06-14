@@ -44,14 +44,14 @@ b. Length:
 c. Margin:
 - One-inch margins are frequently used, so they’re unlikely to offend. Vary margins within a range of ½–1 inch. Do not put margins are too wide, the resume might have too much white space and look “empty.”
 2. Fonts: Style, Size and Color
-a. Font Styles: 
+>a. Font Styles: 
 - Before choosing a particular font style, students need to choose between serif and sans-serif fonts.
 - Serifs are the small lines attached to the ends of the letters.
 - Serif fonts are most commonly used in word processing or other nontraditional forms of typesetting.
 - Note: Choosing between using sans or sans serif is a matter of personal preference—no font can be definitively said to be better than another
-b. Font Size:
+>b. Font Size:
 - Resume font size should be linked directly to font style. From 11 - 12 points is better.
-c. Font Color:
+>c. Font Color:
 - If students choose to use color, it should be a primary color and it should be muted—no bright neon! Simple and subtle reigns supreme in the resume world.
 - The key with color in resumes is retaining the focus on the words rather than moving the reader’s focus to colors. Colors on resumes are meant to help convey information, not hinder it.
 
