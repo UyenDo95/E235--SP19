@@ -6,18 +6,18 @@ Resumes Templates For Tranferring Students |Uyen Do | 06-14-2019|Jason Loan| Les
 ---
 
 ## Lesson Abstact
->A résumé, often referred to as a CV (curriculum vitae), is a summary of a person’s background and experience, including work experience, education, and even volunteer work, and its most common use is to send to potential employers when searching for a new career opportunity. In fact, though taking on a much different form than that of what you’d expect a résumé to look like today, Leonardo Da Vinci even did this himself, and he is often given credit as the first person to create a resume.
+>This lesson is to show for students how to use Microfsoft Word to build a simple and professional resume so that students can create one by themselves. Microsoft Word offers a bunch of résumé templates. Some are beautiful; some are not. They can choose which style fits them best.
 
 ## Lesson Objectives/Outcomes
->Evaluate data using formulas for a desired output
-Create graphs using given data to have a visual representation
+>Show how to create a résumé using Microsoft Word
+>Provide a few tips on getting students through the résumé screening process so they can press that send button with confidence.
 
 ## Materials
 
->Excel will be required for this lesson
+>Microfsoft Word will be required for this lesson
 
 ## Overview
 
->Using and understanding Microsoft Excel for Statistics students
+>Using and understanding Microsoft Word for tranferring students and people who want to apply for job.
 
 ## Lesson Steps/Components [as many as needed]
